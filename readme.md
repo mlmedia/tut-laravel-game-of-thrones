@@ -1,3 +1,14 @@
+# Laravel tutorial
+Laravel tutorial from Auth0 website.
+
+
+## Reference
+[Creating Your First Laravel App and Adding Authentication](https://auth0.com/blog/creating-your-first-laravel-app-and-adding-authentication/)
+
+
+## NOTE
+This is an old project and just keeping it here for posterity purposes.
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
@@ -6,6 +17,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
+
 
 ## About Laravel
 
