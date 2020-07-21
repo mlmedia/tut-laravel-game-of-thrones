@@ -1,10 +1,8 @@
 # Laravel tutorial
 Laravel tutorial from Auth0 website using Game of Thrones as an example.
 
-
 ## Reference
 - [Creating Your First Laravel App and Adding Authentication](https://auth0.com/blog/creating-your-first-laravel-app-and-adding-authentication/)
-
 
 ## Original Laravel README
 
